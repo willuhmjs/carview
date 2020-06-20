@@ -1,6 +1,7 @@
 # carview 
-OSINT license plate data by scraping lookup site(s) 
-![Preview](https://i.ibb.co/NN7bqsD/prew.png "preview") 
+OSINT license plate data by scraping lookup site(s)
+
+![Preview](https://i.ibb.co/NN7bqsD/prew.png) 
 
 ## Setup 
 ``` 
