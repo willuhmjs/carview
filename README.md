@@ -11,5 +11,5 @@ pip install -r requirements.txt
 python index.py 
 ```
 
-## Setup Issues
+### Setup Issues
 Sometimes one of the packages (`requests` or `bs4`) might cause issues when attempting to install. If so, just install both manually one at a time.
