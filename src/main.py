@@ -55,9 +55,9 @@ try:
  
  print("\033[92mDone!\033[0m\n")
  
- print("\033[1mModel:\033[0m              \033[1mYear:\033[0m" + " " * 7 + "\033[1mVehicle Type\033[0m")
+ print("\033[1mModel:\033[0m              \033[1mYear:\033[0m" + " " * 7 + "\033[1mVehicle Type:\033[0m")
  print(model + " " * (20 - len(model)) + year + "        " + type)
- print("\n\033[1mPlate Number:\033[0m       \033[1mState:\033[0m      \033[1mPlant Location\033[0m")
+ print("\n\033[1mPlate Number:\033[0m       \033[1mState:\033[0m      \033[1mPlant Location:\033[0m")
  print(dplate + " " * (20 - len(dplate)) + state + "          " + location)
 except KeyboardInterrupt:
   print("\n\033[91mExiting...\033[0m")
