@@ -8,7 +8,7 @@ OSINT license plate data by scraping lookup site(s)
 git clone https://github.com/willuhm-js/carview 
 cd carview/src 
 pip install -r requirements.txt 
-python index.py 
+python main.py 
 ```
 
 ### Setup Issues
