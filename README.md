@@ -12,4 +12,4 @@ python main.py
 ```
 
 ### Setup Issues
-Sometimes one of the packages (`requests` or `bs4`) might cause issues when attempting to install. If so, just install both manually one at a time.
+Sometimes one of the packages (`requests` or `bs4`) might cause issues when attempting to install. If so, just install both manually one at a time. If the problem continues, try `python3.8 main.py`, instead of `python main.py`.
