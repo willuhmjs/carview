@@ -28,7 +28,6 @@ try:
  print("\n\033[93mSearching...\033[0m")
  
  URL = "https://findbyplate.com/US/"+state+"/"+plate+"/"
- requests.get(URL, verify=True)
  
  page = requests.get(URL, verify=True)
  soupPage = bs(page.content, 'html.parser')
