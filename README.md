@@ -1,7 +1,7 @@
 # carview 
 
 ## DEPRECATED
-This package is deprecated as the scraping sites have anti-scrap measures, and the developer is too lazy to update the script.
+This package is deprecated as the scraping sites have anti-scrap measures. Possible fix in the future.
 
 OSINT license plate data by scraping lookup site(s)
 
